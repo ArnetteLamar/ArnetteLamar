@@ -23,5 +23,7 @@ HTML · CSS · JavaScript · React · PHP · MySQL · PostgreSQL · Git · GitHu
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/arnette-hallman
+
 Portfolio: https://www.ifhallman.dev
+
 Email: arnettelamar@gmail.com
