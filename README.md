@@ -14,7 +14,7 @@ I’m focused on **SQL, Full Stack Development, Data Analysis and AI-powered too
 
 ## Career goal
 
-Looking for opportunities as a **Junior IT Analyst, Technical Analyst or Junior Developer**.
+Looking for opportunities as a **IT Analyst, Technical Analyst or Junior Developer**.
 
 ## Tech Stack
 
